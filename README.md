@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Dariem Garcia 
 
-<!--
-**Dmgar/Dmgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economist and Data Science student with a hybrid profile
+that bridges economic thinking and data-driven solutions.
 
-Here are some ideas to get you started:
+##  About Me
+-  Economist + Data Science student @ Universidad Tecnológica de Bolívar
+-  I work across the full data cycle: collection, cleaning, modeling & visualization
+-  Self-taught learner — always exploring new tools and frameworks
+-  Based in Cartagena, Colombia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+##  Current Projects
+-  **Yahoo Finance Data Visualization** — Technical analysis (RSI, MACD) with interactive Plotly charts
+-  **Experimentos Físicos** — Data simulations and analysis applied to physics experiments
+-  **Crypto Anomaly Detection** *(coming soon)* — Neural network model for detecting anomalies and pump & dump schemes in cryptocurrency markets
+
+##  Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariem-garcia)
