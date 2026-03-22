@@ -24,5 +24,11 @@ that bridges economic thinking and data-driven solutions.
 -  **Experimentos Físicos** — Data simulations and analysis applied to physics experiments
 -  **Crypto Anomaly Detection** *(coming soon)* — Neural network model for detecting anomalies and pump & dump schemes in cryptocurrency markets
 
+### Collaborations
+
+I'm currently working on **NEOs-Analysis** with [Jasen Yukopila](https://github.com/JasenovichYukopila) — an analysis of Near Earth Objects using astronomical data and Python.
+
+> Check out the project: [NEOs-Analysis](https://github.com/JasenovichYukopila/NEOs-Analysis)
+
 ##  Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariem-garcia)
