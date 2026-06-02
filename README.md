@@ -54,6 +54,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [Veles](https://github.com/JasenovichYukopila/Veles) *(collab)* | Music genre classification engine combining acoustic feature engineering (librosa) with Spotify commercial data. Full pipeline: audio DSP → ML model (86.5% accuracy) → FastAPI backend → interactive React dashboard with real-time recording and business KPIs | Python · librosa · scikit-learn · FastAPI · React · Spotify API |
+[Coin Change](https://github.com/pxtroniwnl/coin-change) *(collab)* | Interactive web app solving the classic coin change problem with three algorithmic paradigms: Greedy, Dynamic Programming and Backtracking with pruning. Includes REST API, comparative benchmarks and 100% integration test coverage | Python · FastAPI · Pytest |
 | [Yahoo-Finance-Data-Visualization](https://github.com/Dmgar/Yahoo-Finance-Data-Visualization-Analysis) | Technical analysis with RSI & MACD indicators and interactive charts | Python · Plotly |
 | [Colombia-Pobreza-Multidimensional](https://github.com/Dmgar/Colombia-pobreza-multidimensional) | Interactive dashboard of the Multidimensional Poverty Index (IPM) by department · DANE ECV 2018–2025 | Python · Dash · Plotly |
 | [Exoplanet-Outlier-Detector](https://github.com/Dmgar/exoplanet-outlier-detector) *(collab)* | Detection of exoplanet candidates via statistical outlier analysis on Kepler, K2 & TESS light curves | Python · Jupyter |
