@@ -77,9 +77,8 @@ Also collaborating on **Exoplanet-Outlier-Detector** with [Jasen Yukopila](https
 > [View the project](https://github.com/Dmgar/exoplanet-outlier-detector)
 
 Co-author of **Sincro-App** with [toroc07](https://github.com/toroc07), [Jasen Yukopila](https://github.com/Jmyukopila), [shift-jesus](https://github.com/shift-jesus) and [shizoi4323](https://github.com/shizoi4323) — a coordinated emergency dispatch platform for Cartagena, built during a hackathon.
- 
+
 > [View the project](https://github.com/toroc07/sincro-app)
- 
 
 ---
 
