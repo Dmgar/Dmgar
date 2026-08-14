@@ -61,6 +61,7 @@
 | [SQL-Python-Analytics-Ventas](https://github.com/Dmgar/sql-python-analytics-ventas) | Sales analytics pipeline combining SQL queries with Python visualization | SQL · Python · Jupyter |
 | [Experimentos-Fisicos](https://github.com/Dmgar/Experimentos-fisicos) | Simulations, data analysis and didactic material for physics experiments | Python · R · Jupyter |
 | [NEOs-Analysis](https://github.com/Jmyukopila/NEOs-Analysis) *(collab)* | Analysis of Near Earth Objects using astronomical data | Python |
+| [Sincro-App](https://github.com/toroc07/sincro-app) *(collab)* | Coordinated emergency dispatch platform for Cartagena: deduplicates multiple reports of the same emergency into a single incident and assigns exactly one ambulance, with an explainable and auditable decision | TypeScript · Next.js · PostgreSQL |
 | Crypto Anomaly Detection *(coming soon)* | Neural network for detecting anomalies and pump & dump schemes in crypto markets | Python · ML |
 
 ---
@@ -74,6 +75,10 @@ Currently working on **NEOs-Analysis** with [Jasen Yukopila](https://github.com/
 Also collaborating on **Exoplanet-Outlier-Detector** with [Jasen Yukopila](https://github.com/Jmyukopila) and [Katlyn Gutierrez](https://github.com/devkatlyn) — detecting exoplanet candidates through statistical outlier analysis on photometric light curves.
 
 > [View the project](https://github.com/Dmgar/exoplanet-outlier-detector)
+
+Co-author of **Sincro-App** with [toroc07](https://github.com/toroc07), [Jasen Yukopila](https://github.com/Jmyukopila), [shift-jesus](https://github.com/shift-jesus) and [shizoi4323](https://github.com/shizoi4323) — a coordinated emergency dispatch platform for Cartagena, built during a hackathon.
+
+> [View the project](https://github.com/toroc07/sincro-app)
 
 ---
 
