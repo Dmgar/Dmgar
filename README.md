@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Dariem Garcia 
+# Hi, I'm Dariem Garcia
 ### Economist · Data Science Student · Builder of Data-Driven Solutions
 
 *Bridging economic thinking with modern data tools*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariem-garcia)
-[![Location](https://img.shields.io/badge/Cartagena,_Colombia-grey?style=flat)]()
+![Location](https://img.shields.io/badge/Cartagena,_Colombia-grey?style=flat)
 
 </div>
 
@@ -53,22 +53,42 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Veles](https://github.com/JasenovichYukopila/Veles) *(collab)* | Music genre classification engine combining acoustic feature engineering (librosa) with Spotify commercial data. Full pipeline: audio DSP → ML model (86.5% accuracy) → FastAPI backend → interactive React dashboard with real-time recording and business KPIs | Python · librosa · scikit-learn · FastAPI · React · Spotify API |
+| [Veles](https://github.com/Jmyukopila/Veles) *(collab)* | Music genre classification engine combining acoustic feature engineering (librosa) with Spotify commercial data. Full pipeline: audio DSP → ML model (86.5% accuracy) → FastAPI backend → interactive React dashboard with real-time recording and business KPIs | Python · librosa · scikit-learn · FastAPI · React · Spotify API |
 | [Coin Change](https://github.com/pxtroniwnl/coin-change) *(collab)* | Interactive web app solving the classic coin change problem with three algorithmic paradigms: Greedy, Dynamic Programming and Backtracking with pruning. Includes REST API, comparative benchmarks and 100% integration test coverage | Python · FastAPI · Pytest |
 | [Yahoo-Finance-Data-Visualization](https://github.com/Dmgar/Yahoo-Finance-Data-Visualization-Analysis) | Technical analysis with RSI & MACD indicators and interactive charts | Python · Plotly |
 | [Colombia-Pobreza-Multidimensional](https://github.com/Dmgar/Colombia-pobreza-multidimensional) | Interactive dashboard of the Multidimensional Poverty Index (IPM) by department · DANE ECV 2018–2025 | Python · Dash · Plotly |
 | [Exoplanet-Outlier-Detector](https://github.com/Dmgar/exoplanet-outlier-detector) *(collab)* | Detection of exoplanet candidates via statistical outlier analysis on Kepler, K2 & TESS light curves | Python · Jupyter |
 | [SQL-Python-Analytics-Ventas](https://github.com/Dmgar/sql-python-analytics-ventas) | Sales analytics pipeline combining SQL queries with Python visualization | SQL · Python · Jupyter |
 | [Experimentos-Fisicos](https://github.com/Dmgar/Experimentos-fisicos) | Simulations, data analysis and didactic material for physics experiments | Python · R · Jupyter |
-| [NEOs-Analysis](https://github.com/JasenovichYukopila/NEOs-Analysis) *(collab)* | Analysis of Near Earth Objects using astronomical data | Python |
-| [Crypto Anomaly Detection](https://github.com/Dmgar) *(coming soon)* | Neural network for detecting anomalies and pump & dump schemes in crypto markets | Python · ML |
+| [NEOs-Analysis](https://github.com/Jmyukopila/NEOs-Analysis) *(collab)* | Analysis of Near Earth Objects using astronomical data | Python |
+| [Sincro-App](https://github.com/toroc07/sincro-app) *(collab)* | Coordinated emergency dispatch platform for Cartagena: deduplicates multiple reports of the same emergency into a single incident and assigns exactly one ambulance, with an explainable and auditable decision | TypeScript · Next.js · PostgreSQL |
+| Crypto Anomaly Detection *(coming soon)* | Neural network for detecting anomalies and pump & dump schemes in crypto markets | Python · ML |
 
 ---
 
 ## Collaborations
 
-Currently working on **NEOs-Analysis** with [Jasen Yukopila](https://github.com/JasenovichYukopila) — mapping and analyzing Near Earth Objects using open astronomical datasets and Python.
+Currently working on **NEOs-Analysis** with [Jasen Yukopila](https://github.com/Jmyukopila) — mapping and analyzing Near Earth Objects using open astronomical datasets and Python.
 
-> [View the project](https://github.com/JasenovichYukopila/NEOs-Analysis)
+> [View the project](https://github.com/Jmyukopila/NEOs-Analysis)
 
-Also collaborating on **Exoplanet-Outlier-Detector** with [Jasen Yukopila](https://github.com/JasenovichYukopila) and [Katlyn Gutierrez](https://github.com/devkatlyn) — detecting exoplanet candidates through statistical outlier analysis on photometric light curves.
+Also collaborating on **Exoplanet-Outlier-Detector** with [Jasen Yukopila](https://github.com/Jmyukopila) and [Katlyn Gutierrez](https://github.com/devkatlyn) — detecting exoplanet candidates through statistical outlier analysis on photometric light curves.
+
+> [View the project](https://github.com/Dmgar/exoplanet-outlier-detector)
+
+Co-author of **Sincro-App** with [toroc07](https://github.com/toroc07), [Jasen Yukopila](https://github.com/Jmyukopila), [shift-jesus](https://github.com/shift-jesus) and [shizoi4323](https://github.com/shizoi4323) — a coordinated emergency dispatch platform for Cartagena, built during a hackathon.
+ 
+> [View the project](https://github.com/toroc07/sincro-app)
+ 
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dariem_Garcia-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariem-garcia)
+
+*Open to collaborations in data science, economic research, and astronomical data projects.*
+
+</div>
