@@ -65,13 +65,13 @@
 
 <div align="center">
 
-| **GitHub Overview** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Dmgar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmgar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="350"/> |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmgar&theme=github_dark" alt="GitHub Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmgar&theme=github_dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmgar&theme=github_dark" alt="GitHub Stats" />
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dmgar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dmgar&theme=dark&hide_border=true)](https://github.com/Dmgar)
 
 </div>
 
