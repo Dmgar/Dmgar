@@ -66,12 +66,12 @@
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmgar&theme=github_dark" alt="GitHub Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmgar&theme=github_dark" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmgar&theme=github_dark" alt="GitHub Stats" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dmgar&theme=dark&hide_border=true)](https://github.com/Dmgar)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmgar&theme=github_dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmgar&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dmgar&theme=github_dark" alt="Productive Time" />
 
 </div>
 
