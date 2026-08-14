@@ -53,25 +53,25 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Veles](https://github.com/JasenovichYukopila/Veles) *(collab)* | Music genre classification engine combining acoustic feature engineering (librosa) with Spotify commercial data. Full pipeline: audio DSP → ML model (86.5% accuracy) → FastAPI backend → interactive React dashboard with real-time recording and business KPIs | Python · librosa · scikit-learn · FastAPI · React · Spotify API |
+| [Veles](https://github.com/Jmyukopila/Veles) *(collab)* | Music genre classification engine combining acoustic feature engineering (librosa) with Spotify commercial data. Full pipeline: audio DSP → ML model (86.5% accuracy) → FastAPI backend → interactive React dashboard with real-time recording and business KPIs | Python · librosa · scikit-learn · FastAPI · React · Spotify API |
 | [Coin Change](https://github.com/pxtroniwnl/coin-change) *(collab)* | Interactive web app solving the classic coin change problem with three algorithmic paradigms: Greedy, Dynamic Programming and Backtracking with pruning. Includes REST API, comparative benchmarks and 100% integration test coverage | Python · FastAPI · Pytest |
 | [Yahoo-Finance-Data-Visualization](https://github.com/Dmgar/Yahoo-Finance-Data-Visualization-Analysis) | Technical analysis with RSI & MACD indicators and interactive charts | Python · Plotly |
 | [Colombia-Pobreza-Multidimensional](https://github.com/Dmgar/Colombia-pobreza-multidimensional) | Interactive dashboard of the Multidimensional Poverty Index (IPM) by department · DANE ECV 2018–2025 | Python · Dash · Plotly |
 | [Exoplanet-Outlier-Detector](https://github.com/Dmgar/exoplanet-outlier-detector) *(collab)* | Detection of exoplanet candidates via statistical outlier analysis on Kepler, K2 & TESS light curves | Python · Jupyter |
 | [SQL-Python-Analytics-Ventas](https://github.com/Dmgar/sql-python-analytics-ventas) | Sales analytics pipeline combining SQL queries with Python visualization | SQL · Python · Jupyter |
 | [Experimentos-Fisicos](https://github.com/Dmgar/Experimentos-fisicos) | Simulations, data analysis and didactic material for physics experiments | Python · R · Jupyter |
-| [NEOs-Analysis](https://github.com/JasenovichYukopila/NEOs-Analysis) *(collab)* | Analysis of Near Earth Objects using astronomical data | Python |
+| [NEOs-Analysis](https://github.com/Jmyukopila/NEOs-Analysis) *(collab)* | Analysis of Near Earth Objects using astronomical data | Python |
 | Crypto Anomaly Detection *(coming soon)* | Neural network for detecting anomalies and pump & dump schemes in crypto markets | Python · ML |
 
 ---
 
 ## Collaborations
 
-Currently working on **NEOs-Analysis** with [Jasen Yukopila](https://github.com/JasenovichYukopila) — mapping and analyzing Near Earth Objects using open astronomical datasets and Python.
+Currently working on **NEOs-Analysis** with [Jasen Yukopila](https://github.com/Jmyukopila) — mapping and analyzing Near Earth Objects using open astronomical datasets and Python.
 
-> [View the project](https://github.com/JasenovichYukopila/NEOs-Analysis)
+> [View the project](https://github.com/Jmyukopila/NEOs-Analysis)
 
-Also collaborating on **Exoplanet-Outlier-Detector** with [Jasen Yukopila](https://github.com/JasenovichYukopila) and [Katlyn Gutierrez](https://github.com/devkatlyn) — detecting exoplanet candidates through statistical outlier analysis on photometric light curves.
+Also collaborating on **Exoplanet-Outlier-Detector** with [Jasen Yukopila](https://github.com/Jmyukopila) and [Katlyn Gutierrez](https://github.com/devkatlyn) — detecting exoplanet candidates through statistical outlier analysis on photometric light curves.
 
 > [View the project](https://github.com/Dmgar/exoplanet-outlier-detector)
 
