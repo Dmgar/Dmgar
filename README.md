@@ -40,6 +40,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Librosa](https://img.shields.io/badge/Librosa-DSP-9932CC?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Visualization & Dashboards
@@ -58,6 +59,8 @@
 ![Windmill](https://img.shields.io/badge/Windmill-0E6B5E?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -81,6 +84,8 @@
 
 | Project | Description | Stack / Key Tech | Status |
 |---|---|---|:---:|
+| **[FlowSense](https://github.com/Dmgar/project_Flowsense)** | Sistema de percepción en tiempo real con OpenCV 5 y modelado de grafos urbanos para ruteo dinámico de vehículos de emergencia (AWS). | `Python` · `OpenCV` · `FastAPI` · `AWS` | ![Competition](https://img.shields.io/badge/Competition-FF4500?style=flat-square) |
+| **[Project Terra](https://github.com/Dmgar/Project_Terra)** | Minería de datos y clustering no supervisado (K-Means, PCA) sobre variables edafoclimáticas para delimitación de ecorregiones funcionales. | `Python` · `Scikit-Learn` · `Clustering` | ![In Progress](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
 | **[Veles](https://github.com/Jmyukopila/Veles)** | Audio DSP & music genre classification engine combining librosa feature engineering with Spotify data (86.5% accuracy ML model, FastAPI backend, React dashboard). | `Python` · `librosa` · `scikit-learn` · `FastAPI` · `React` | ![Collaboration](https://img.shields.io/badge/Collab-8A2BE2?style=flat-square) |
 | **[Sincro-App](https://github.com/toroc07/sincro-app)** | Coordinated emergency dispatch platform for Cartagena: deduplicates multi-report incidents and optimizes single ambulance dispatch with auditable logic. | `TypeScript` · `Next.js` · `PostgreSQL` | ![Hackathon](https://img.shields.io/badge/Hackathon-FF4500?style=flat-square) |
 | **[Coin Change](https://github.com/pxtroniwnl/coin-change)** | Interactive algorithmic solver for the coin change problem across Greedy, Dynamic Programming, and Backtracking with pruning. REST API + 100% test coverage. | `Python` · `FastAPI` · `Pytest` | ![Collaboration](https://img.shields.io/badge/Collab-8A2BE2?style=flat-square) |
