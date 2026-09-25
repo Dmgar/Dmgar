@@ -2,7 +2,7 @@
 
 # Hi there, I'm Dariem Garcia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Economist+%C2%B7+Data+Science+Student+%40+UTB;Bridging+Economic+Thinking+with+Data+Tools;Building+ML%2C+Automation+%26+Astro-Data+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Economist+%C2%B7+Data+Science+Student+%40+UTB;Bridging+Economic+Thinking+with+Modern+Code;Building+ML%2C+Graph+Optimization+%26+Astro-Data+Pipelines;Project+F%C3%A9nix%3A+Systematic+Open-Source+Modernization)](https://git.io/typing-svg)
 
 *Cartagena, Colombia 🇨🇴*
 
@@ -17,9 +17,10 @@
 ## About Me
 
 - **Economist & Data Science Student** at *Universidad Tecnológica de Bolívar (UTB)*.
-- **Full Data Lifecycle Expertise:** Collection ➔ Cleaning ➔ Statistical & ML Modeling ➔ Interactive Visualization.
-- **Current Focus:** Machine Learning, Workflow Automation (n8n, Windmill), and Astronomical Data Analytics (Exoplanets & NEOs).
-- **Philosophy:** Bridging rigorous economic theory with modern computational tools to solve real-world complex problems.
+- **Full Data Lifecycle Expertise:** Collection ➔ Cleaning ➔ Statistical & ML Modeling ➔ Production Deployment & Interactive Visualization.
+- **Current Focus:** Machine Learning, Graph & Network Optimization (OSMnx, NetworkX), Scalable Full-Stack Architectures (FastAPI, Next.js, uv), and Astronomical Data Analytics.
+- **🔥 Project Fénix:** Systematic initiative aimed at overhauling, upgrading, and modernizing foundational repositories to modern production and engineering standards.
+- **Philosophy:** Bridging rigorous economic theory with modern computational tools to solve complex real-world challenges.
 
 ---
 
@@ -35,32 +36,52 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Data Science, ML & Analytics
+### Data Science, ML & Graph Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-DSP-9932CC?style=for-the-badge)
+![NetworkX](https://img.shields.io/badge/NetworkX-007ACC?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-DSP-9932CC?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Web Frameworks & Frontend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Visualization & Dashboards
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Web Frameworks & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Automation & Tools
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![Windmill](https://img.shields.io/badge/Windmill-0E6B5E?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+### DevOps, Modern Tooling & Automation
+![uv](https://img.shields.io/badge/uv-Astral-DE5FE9?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![Windmill](https://img.shields.io/badge/Windmill-0E6B5E?style=for-the-badge&logoColor=white)
+
+---
+
+## 🔥 Project Fénix: Systematic Repository Modernization
+
+> **Project Fénix** is an intensive engineering initiative dedicated to reviving, refactoring, and massively upgrading foundational repositories. It elevates standalone scripts and legacy prototypes into production-grade systems featuring clean modular architectures, modern full-stack web stacks (FastAPI, Next.js 15, Tailwind CSS, uv), rigorous testing, and high-performance data pipelines.
+
+| Repository / Project | Transformation Focus & Scope | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[Yahoo-Finance-Data-Visualization](https://github.com/Dmgar/Yahoo-Finance-Data-Visualization-Analysis)** | **Forex & Market Volatility Platform:** Complete rebirth into a high-performance Monorepo. Features a FastAPI backend managed by `uv`, Next.js 15 with Tailwind CSS v4, Recharts glassmorphism UI, advanced volatility indicators (ATR, Bollinger Bands, MACD, Drawdowns), and an integrated roadmap for cryptocurrency analytics & live WebSockets. | `Next.js 15` · `FastAPI` · `uv` · `Tailwind v4` · `Recharts` | ![Completed](https://img.shields.io/badge/Reborn-00C853?style=for-the-badge&logo=git) |
+| **[SQL-Python-Analytics-Ventas](https://github.com/Dmgar/sql-python-analytics-ventas)** | **Sales Intelligence Pipeline:** Refactoring data pipelines, centralizing relational SQL connection queries, and developing modular reporting engines and interactive KPI analytics for commercial sales decision-making. | `SQL` · `Python` · `Pandas` · `Analytics` | ![In Progress](https://img.shields.io/badge/In_Progress-FFA000?style=for-the-badge) |
+| **[Experimentos-Fisicos](https://github.com/Dmgar/Experimentos-fisicos)** | **Computational Physics Lab:** Modernizing physical simulations, didactic interactive notebooks, data analysis scripts, and mathematical models with clean Python architectures and interactive visualization. | `Python` · `R` · `SciPy` · `Jupyter` | ![In Progress](https://img.shields.io/badge/In_Progress-FFA000?style=for-the-badge) |
+| **[Colombia-Pobreza-Multidimensional](https://github.com/Dmgar/Colombia-pobreza-multidimensional)** | **Socioeconomic Intelligence Engine:** Upgrading multidimensional poverty (IPM) dashboards with modularized utility packages, robust DANE ECV data pipelines, and responsive geospatial visualizers. | `Python` · `Dash` · `Plotly` · `Socioeconomics` | ![In Progress](https://img.shields.io/badge/In_Progress-FFA000?style=for-the-badge) |
+| **[Exoplanet-Outlier-Detector](https://github.com/Dmgar/exoplanet-outlier-detector)** | **AstroData Outlier Pipeline:** Upgrading astrophysical data pipelines for Kepler, K2, and TESS light curves with modular statistical algorithms, noise reduction, and candidate transit scoring. | `Python` · `Lightkurve` · `NumPy` · `AstroData` | ![In Progress](https://img.shields.io/badge/In_Progress-FFA000?style=for-the-badge) |
 
 ---
 
@@ -84,18 +105,18 @@
 
 | Project | Description | Stack / Key Tech | Status |
 |---|---|---|:---:|
-| **[FlowSense](https://github.com/Dmgar/project_Flowsense)** | Sistema de percepción en tiempo real con OpenCV 5 y modelado de grafos urbanos para ruteo dinámico de vehículos de emergencia (AWS). | `Python` · `OpenCV` · `FastAPI` · `AWS` | ![Competition](https://img.shields.io/badge/Competition-FF4500?style=flat-square) |
-| **[Project Terra](https://github.com/Dmgar/Project_Terra)** | Minería de datos y clustering no supervisado (K-Means, PCA) sobre variables edafoclimáticas para delimitación de ecorregiones funcionales. | `Python` · `Scikit-Learn` · `Clustering` | ![In Progress](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| **[FlowSense](https://github.com/Dmgar/project_Flowsense)** | Real-time perception (OpenCV 5) and street-based emergency routing engine with interactive mission planning, Docker, and CI/CD pipelines. | `Python` · `OpenCV` · `FastAPI` · `React` · `Docker` | ![Competition](https://img.shields.io/badge/Competition-FF4500?style=flat-square) |
+| **[Project Terra](https://github.com/Dmgar/Project_Terra)** | Agricultural ecoregion clustering (K-Means, PCA, UMAP) and crop recommendation engine with interactive React + Vite frontend and economic farm planning optimizer. | `Python` · `Scikit-Learn` · `FastAPI` · `React` · `Vite` | ![FullStack](https://img.shields.io/badge/Full--Stack-2E8B57?style=flat-square) |
+| **[Transit-Route-Optimizer](https://github.com/Dmgar/transit-route-optimizer)** | Multiobjective Genetic Algorithm (NSGA-II) optimizer solving the Transit Network Design Problem (TNDP) over real city road graphs. | `Python` · `OSMnx` · `NetworkX` · `FastAPI` · `Leaflet` | ![Optimization](https://img.shields.io/badge/Optimization-007ACC?style=flat-square) |
+| **[Forex & Market Analytics](https://github.com/Dmgar/Yahoo-Finance-Data-Visualization-Analysis)** | Modern Monorepo platform calculating annualized volatility, ATR, drawdowns, and technical indicators, with active crypto roadmap *(Project Fénix)*. | `Next.js 15` · `FastAPI` · `uv` · `Tailwind` · `Recharts` | ![Project Fénix](https://img.shields.io/badge/Project_F%C3%A9nix-FF4500?style=flat-square) |
 | **[Veles](https://github.com/Jmyukopila/Veles)** | Audio DSP & music genre classification engine combining librosa feature engineering with Spotify data (86.5% accuracy ML model, FastAPI backend, React dashboard). | `Python` · `librosa` · `scikit-learn` · `FastAPI` · `React` | ![Collaboration](https://img.shields.io/badge/Collab-8A2BE2?style=flat-square) |
 | **[Sincro-App](https://github.com/toroc07/sincro-app)** | Coordinated emergency dispatch platform for Cartagena: deduplicates multi-report incidents and optimizes single ambulance dispatch with auditable logic. | `TypeScript` · `Next.js` · `PostgreSQL` | ![Hackathon](https://img.shields.io/badge/Hackathon-FF4500?style=flat-square) |
 | **[Coin Change](https://github.com/pxtroniwnl/coin-change)** | Interactive algorithmic solver for the coin change problem across Greedy, Dynamic Programming, and Backtracking with pruning. REST API + 100% test coverage. | `Python` · `FastAPI` · `Pytest` | ![Collaboration](https://img.shields.io/badge/Collab-8A2BE2?style=flat-square) |
 | **[Exoplanet-Outlier-Detector](https://github.com/Dmgar/exoplanet-outlier-detector)** | Detection of exoplanet candidates through statistical outlier analysis on Kepler, K2 & TESS light curves. | `Python` · `Jupyter` · `AstroData` | ![Collaborative](https://img.shields.io/badge/AstroData-00D2FF?style=flat-square) |
 | **[Colombia-Pobreza-Multidimensional](https://github.com/Dmgar/Colombia-pobreza-multidimensional)** | Interactive dashboard analyzing Multidimensional Poverty Index (IPM) across Colombian departments based on DANE ECV 2018–2025 data. | `Python` · `Dash` · `Plotly` | ![SocioEconomic](https://img.shields.io/badge/DataViz-2E8B57?style=flat-square) |
-| **[Yahoo-Finance-Data-Visualization](https://github.com/Dmgar/Yahoo-Finance-Data-Visualization-Analysis)** | Technical analysis platform evaluating market assets using RSI, MACD indicators, and interactive visualization charts. | `Python` · `Plotly` · `Finance` | ![Analytics](https://img.shields.io/badge/Finance-FFD700?style=flat-square) |
 | **[NEOs-Analysis](https://github.com/Jmyukopila/NEOs-Analysis)** | Orbital trajectory analysis and risk mapping of Near Earth Objects utilizing open NASA/astronomical datasets. | `Python` · `Astrophysics` | ![Collab](https://img.shields.io/badge/Collab-8A2BE2?style=flat-square) |
 | **[SQL-Python-Analytics-Ventas](https://github.com/Dmgar/sql-python-analytics-ventas)** | End-to-end sales analytics pipeline joining relational SQL queries with Python data processing and chart generation. | `SQL` · `Python` · `Jupyter` | ![Analytics](https://img.shields.io/badge/Data-007ACC?style=flat-square) |
 | **[Experimentos-Fisicos](https://github.com/Dmgar/Experimentos-fisicos)** | Physics experiment simulations, computational models, and didactic data analysis materials. | `Python` · `R` · `Jupyter` | ![OpenSource](https://img.shields.io/badge/Science-4682B4?style=flat-square) |
-| **Crypto Anomaly Detection** | Deep neural network designed for anomaly detection and pump & dump scheme identification in cryptocurrency markets. | `Python` · `Machine Learning` | ![In Progress](https://img.shields.io/badge/Coming_Soon-yellow?style=flat-square) |
 
 ---
 
