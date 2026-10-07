@@ -89,13 +89,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmgar&theme=github_dark" alt="GitHub Profile Details" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dmgar&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmgar&theme=github-dark" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmgar&theme=github_dark" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmgar&theme=github_dark" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dmgar&theme=github_dark" alt="Productive Time" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmgar&layout=compact&theme=github_dark" alt="Top Languages" />
 
 </div>
 
