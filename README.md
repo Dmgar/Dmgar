@@ -2,13 +2,13 @@
 
 # Hi there, I'm Dariem Garcia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Economist+%C2%B7+Data+Science+Student+%40+UTB;Bridging+Economic+Thinking+with+Modern+Code;Building+ML%2C+Graph+Optimization+%26+Astro-Data+Pipelines;Project+F%C3%A9nix%3A+Systematic+Open-Source+Modernization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=800&lines=Economist+%C2%B7+Data+Science+Student+%40+UTB;Bridging+Economic+Thinking+with+Modern+Code;Building+ML%2C+Graph+Optimization+%26+Astro-Data+Pipelines;Project+F%C3%A9nix%3A+Systematic+Open-Source+Modernization)](https://github.com/denvercoder1/readme-typing-svg)
 
 *Cartagena, Colombia 🇨🇴*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariem-garcia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmgar)
-[![UTB](https://img.shields.io/badge/UTB-Universidad_Tecnol%C3%B3gica_de_Bol%C3%ADvar-003366?style=for-the-badge&logo=education&logoColor=white)](https://www.utb.edu.co/)
+[![UTB](https://img.shields.io/badge/UTB-Universidad_Tecnol%C3%B3gica_de_Bol%C3%ADvar-003366?style=for-the-badge)](https://www.utb.edu.co/)
 
 </div>
 
@@ -19,7 +19,7 @@
 - **Economist & Data Science Student** at *Universidad Tecnológica de Bolívar (UTB)*.
 - **Full Data Lifecycle Expertise:** Collection ➔ Cleaning ➔ Statistical & ML Modeling ➔ Production Deployment & Interactive Visualization.
 - **Current Focus:** Machine Learning, Graph & Network Optimization (OSMnx, NetworkX), Scalable Full-Stack Architectures (FastAPI, Next.js, uv), and Astronomical Data Analytics.
-- **🔥 Project Fénix:** Systematic initiative aimed at overhauling, upgrading, and modernizing foundational repositories to modern production and engineering standards.
+- **🔥 Project Fénix:** Systematic initiative aimed at overhauling, upgrading, and modernizing foundational repositories to production-grade engineering standards.
 - **Philosophy:** Bridging rigorous economic theory with modern computational tools to solve complex real-world challenges.
 
 ---
@@ -33,13 +33,13 @@
 ![Stata](https://img.shields.io/badge/Stata-1A5F7A?style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Data Science, ML & Graph Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-007ACC?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Librosa](https://img.shields.io/badge/Librosa-DSP-9932CC?style=for-the-badge)
@@ -50,7 +50,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Visualization & Dashboards
@@ -58,12 +58,12 @@
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### DevOps, Modern Tooling & Automation
 ![uv](https://img.shields.io/badge/uv-Astral-DE5FE9?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
