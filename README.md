@@ -109,7 +109,7 @@
 | **[Transit-Route-Optimizer](https://github.com/Dmgar/transit-route-optimizer)** | Multiobjective Genetic Algorithm (NSGA-II) optimizer solving the Transit Network Design Problem (TNDP) over real city road graphs. | `Python` · `OSMnx` · `NetworkX` · `FastAPI` · `Leaflet` | ![Optimization](https://img.shields.io/badge/Optimization-007ACC?style=flat-square) |
 | **[Forex & Market Analytics](https://github.com/Dmgar/Yahoo-Finance-Data-Visualization-Analysis)** | Modern Monorepo platform calculating annualized volatility, ATR, drawdowns, and technical indicators, with active crypto roadmap *(Project Fénix)*. | `Next.js 15` · `FastAPI` · `uv` · `Tailwind` · `Recharts` | ![Project Fénix](https://img.shields.io/badge/Project_F%C3%A9nix-FF4500?style=flat-square) |
 | **[Veles](https://github.com/Jmyukopila/Veles)** | Audio DSP & music genre classification engine combining librosa feature engineering with Spotify data (86.5% accuracy ML model, FastAPI backend, React dashboard). | `Python` · `librosa` · `scikit-learn` · `FastAPI` · `React` | ![Collaboration](https://img.shields.io/badge/Collab-8A2BE2?style=flat-square) |
-| **[Sincro-App](https://github.com/toroc07/sincro-app)** | Coordinated emergency dispatch platform for Cartagena: deduplicates multi-report incidents and optimizes single ambulance dispatch with auditable logic. | `TypeScript` · `Next.js` · `PostgreSQL` | ![Hackathon](https://img.shields.io/badge/Hackathon-FF4500?style=flat-square) |
+| **Sincro-App** *(private for now)* | Coordinated emergency dispatch platform for Cartagena: deduplicates multi-report incidents and optimizes single ambulance dispatch with auditable logic. | `TypeScript` · `Next.js` · `PostgreSQL` | ![Hackathon](https://img.shields.io/badge/Hackathon-FF4500?style=flat-square) |
 | **[Coin Change](https://github.com/pxtroniwnl/coin-change)** | Interactive algorithmic solver for the coin change problem across Greedy, Dynamic Programming, and Backtracking with pruning. REST API + 100% test coverage. | `Python` · `FastAPI` · `Pytest` | ![Collaboration](https://img.shields.io/badge/Collab-8A2BE2?style=flat-square) |
 | **[Exoplanet-Outlier-Detector](https://github.com/Dmgar/exoplanet-outlier-detector)** | Detection of exoplanet candidates through statistical outlier analysis on Kepler, K2 & TESS light curves. | `Python` · `Jupyter` · `AstroData` | ![Collaborative](https://img.shields.io/badge/AstroData-00D2FF?style=flat-square) |
 | **[Colombia-Pobreza-Multidimensional](https://github.com/Dmgar/Colombia-pobreza-multidimensional)** | Interactive dashboard analyzing Multidimensional Poverty Index (IPM) across Colombian departments based on DANE ECV 2018–2025 data. | `Python` · `Dash` · `Plotly` | ![SocioEconomic](https://img.shields.io/badge/DataViz-2E8B57?style=flat-square) |
@@ -126,7 +126,7 @@
 - **Exoplanet-Outlier-Detector** with [@Jmyukopila](https://github.com/Jmyukopila) & [@devkatlyn](https://github.com/devkatlyn) — Statistical light curve outlier detection for Kepler, K2 & TESS data.  
   👉 [*Explore Repository*](https://github.com/Dmgar/exoplanet-outlier-detector)
 - 🚑 **Sincro-App** with [@toroc07](https://github.com/toroc07), [@Jmyukopila](https://github.com/Jmyukopila), [@shift-jesus](https://github.com/shift-jesus) & [@shizoi4323](https://github.com/shizoi4323) — Hackathon emergency dispatch coordinator for Cartagena.  
-  👉 [*Explore Repository*](https://github.com/toroc07/sincro-app)
+  🔒 *Repository temporarily private*
 
 ---
 
