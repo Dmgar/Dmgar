@@ -33,5 +33,6 @@ jobs:
             --max-retries 3
             --exclude linkedin\.com
             --exclude img\.shields\.io
+            --exclude utb\.edu\.co
             "**/*.md"
           fail: true
