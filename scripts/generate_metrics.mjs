@@ -1,9 +1,10 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import https from 'node:https';
 
 const USERNAME = 'Dmgar';
 const TOKEN = process.env.GITHUB_TOKEN || '';
+const GITHUB_API_ORIGIN = 'https://api.github.com';
+const REQUEST_TIMEOUT_MS = 15_000;
 
 const LANGUAGE_COLORS = {
   Python: '#38BDF8',
@@ -14,35 +15,34 @@ const LANGUAGE_COLORS = {
   'Shell & DevOps': '#10B981',
 };
 
-function fetchJson(url, extraHeaders = {}) {
-  return new Promise((resolve, reject) => {
-    const headers = {
-      'User-Agent': 'Dmgar-Metrics-Generator',
-      Accept: 'application/vnd.github+json',
-      ...extraHeaders,
-    };
-    if (TOKEN) {
-      headers.Authorization = `Bearer ${TOKEN}`;
-    }
+async function fetchJson(url, extraHeaders = {}) {
+  const parsedUrl = new URL(url);
+  if (parsedUrl.origin !== GITHUB_API_ORIGIN) {
+    throw new Error(`Refusing to request untrusted origin: ${parsedUrl.origin}`);
+  }
 
-    https
-      .get(url, { headers }, (res) => {
-        let body = '';
-        res.on('data', (chunk) => (body += chunk));
-        res.on('end', () => {
-          if (res.statusCode >= 200 && res.statusCode < 300) {
-            try {
-              resolve(JSON.parse(body || '{}'));
-            } catch (err) {
-              reject(err);
-            }
-          } else {
-            reject(new Error(`HTTP ${res.statusCode} for ${url}: ${body.slice(0, 200)}`));
-          }
-        });
-      })
-      .on('error', reject);
+  const headers = {
+    'User-Agent': 'Dmgar-Metrics-Generator',
+    Accept: 'application/vnd.github+json',
+    'X-GitHub-Api-Version': '2022-11-28',
+    ...extraHeaders,
+  };
+  if (TOKEN) {
+    headers.Authorization = `Bearer ${TOKEN}`;
+  }
+
+  const res = await fetch(parsedUrl, {
+    headers,
+    signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
   });
+
+  if (!res.ok) {
+    const body = await res.text().catch(() => '');
+    throw new Error(`HTTP ${res.status} for ${parsedUrl.pathname}: ${body.slice(0, 200)}`);
+  }
+
+  const text = await res.text();
+  return text ? JSON.parse(text) : {};
 }
 
 function escapeXml(str) {
@@ -50,20 +50,22 @@ function escapeXml(str) {
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
 }
 
 async function main() {
   console.log(`Fetching GitHub telemetry for @${USERNAME}...`);
 
-  const user = await fetchJson(`https://api.github.com/users/${USERNAME}`);
-  const repos = await fetchJson(`https://api.github.com/users/${USERNAME}/repos?per_page=100&sort=updated`);
+  const [user, repos] = await Promise.all([
+    fetchJson(`${GITHUB_API_ORIGIN}/users/${USERNAME}`),
+    fetchJson(`${GITHUB_API_ORIGIN}/users/${USERNAME}/repos?per_page=100&sort=updated`),
+  ]);
 
   let totalCommits = 255;
   try {
     const commitSearch = await fetchJson(
-      `https://api.github.com/search/commits?q=author:${USERNAME}`,
-      { Accept: 'application/vnd.github.cloak-preview+json' }
+      `${GITHUB_API_ORIGIN}/search/commits?q=author:${USERNAME}`
     );
     if (typeof commitSearch.total_count === 'number' && commitSearch.total_count > 0) {
       totalCommits = commitSearch.total_count;
@@ -75,9 +77,10 @@ async function main() {
   const rawLangBytes = {};
   let pureCodeBytes = 0;
 
-  for (const repo of repos) {
-    if (repo.fork) continue;
-    const langs = await fetchJson(repo.languages_url);
+  const ownRepos = repos.filter((repo) => !repo.fork && typeof repo.languages_url === 'string');
+  const repoLangs = await Promise.all(ownRepos.map((repo) => fetchJson(repo.languages_url)));
+
+  for (const langs of repoLangs) {
     for (const [lang, bytes] of Object.entries(langs)) {
       rawLangBytes[lang] = (rawLangBytes[lang] || 0) + bytes;
       if (lang !== 'Jupyter Notebook') {
@@ -119,7 +122,7 @@ async function main() {
   const stackedSegments = sortedLangs.map((lang, idx) => {
     const w =
       idx === sortedLangs.length - 1
-        ? Math.max(4, barWidth - currentX)
+        ? Math.max(0, barWidth - currentX)
         : Math.max(4, Math.round((lang.pct / 100) * barWidth));
     const seg = { ...lang, x: currentX, width: w };
     currentX += w;
@@ -127,7 +130,7 @@ async function main() {
   });
 
   const codeMegabytes = (pureCodeBytes / (1024 * 1024)).toFixed(1);
-  const publicRepos = user.public_repos || repos.length;
+  const publicRepos = user.public_repos ?? repos.length;
   const updatedDate = new Date().toISOString().slice(0, 10);
 
   const langRowsSvg = sortedLangs
