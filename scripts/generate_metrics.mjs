@@ -202,7 +202,7 @@ async function main() {
   <g transform="translate(228, 66)">
     <rect width="190" height="58" rx="8" fill="#161B22" stroke="#1E293B" stroke-width="1.2" />
     <text x="14" y="21" class="font-mono" font-size="10" font-weight="600" fill="#64748B">PUBLIC &amp; COLLAB REPOS</text>
-    <text x="14" y="45" class="font-mono" font-size="22" font-weight="800" fill="#F8FAFC">${publicRepos} <tspan font-size="12" font-weight="600" fill="#94A3B8">+ 3 Collab</tspan></text>
+    <text x="14" y="45" class="font-mono" font-size="22" font-weight="800" fill="#F8FAFC">${publicRepos} <tspan font-size="12" font-weight="600" fill="#94A3B8">+ 5 Collab</tspan></text>
   </g>
 
   <!-- KPI 3: Project Fénix Status -->
